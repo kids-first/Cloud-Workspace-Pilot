@@ -1,4 +1,4 @@
-# CFDE Cloud Workspace Partnership (CWP) Pilot [NOTE: DRAFT PAGE CONTENT]
+# CFDE Cloud Workspace Partnership (CWP) Pilot
 ## Estimating Cloud Computing Costs
 _Note: While there are multiple cloud-based computing service providers, the Seven Bridges CAVATICA environment is built upon [Amazon Web Services (AWS)](https://aws.amazon.com/). The content of this page is specific to AWS and CAVATICA, most relevant to research on Kids First data._
 
