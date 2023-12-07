@@ -1,4 +1,4 @@
-# CFDE Cloud Workspace Partnership (CWP) Pilot [NOTE: DRAFT PAGE CONTENT]
+# CFDE Cloud Workspace Partnership (CWP) Pilot
 ## Overview of CWP Pilot
 Our goal with the Kids First CFDE “Cloud Workspace Partnership Pilot” is to understand valuable data, tool and research use cases of other CFDE DCCs and collaboratively pilot integration of data and tool usage in the [CAVATICA cloud workspace](https://www.cavatica.org/).  At its core, the pilot is focused on demonstrating the value of a collaborative and interoperable cloud workspace for the CFDE and broader Common Fund community that supports integrated CFDE dataset analysis in the cloud and supports cross DCC use cases that matter to investigators.
 
