@@ -1,6 +1,7 @@
 # CFDE Cloud Workspace Partnership (CWP) Pilot
 <br/><br/>
-<img src="https://github.com/kids-first/kf-cloud-credits/blob/main/assets/kfdrc-logo-sm.png"  width="500" >
+<img src="https://github.com/kids-first/cloud-workspace-partnership-pilot/blob/master/docs/CFDE_logo-color-web.png"  width="400" >
+<img src="https://github.com/kids-first/cloud-workspace-partnership-pilot/blob/master/docs/kfdrc-logo-sm.png"  width="400" >
 <br/><br/>
 
 ## Contents
