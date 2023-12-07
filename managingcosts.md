@@ -1,4 +1,4 @@
-# CFDE Cloud Workspace Partnership (CWP) Pilot [NOTE: DRAFT PAGE CONTENT]
+# CFDE Cloud Workspace Partnership (CWP) Pilot
 ## Managing Cloud Computing Costs
 _Note: For an introduction to the principles of cloud computing, cost estimation, and the concept of __storage__ and __compute__, see our documentation on [Estimating Cloud Computing Costs](https://github.com/kids-first/kf-cloud-credits/blob/main/estimatingcosts.md#principles-of-cloud-computing-costs)._
 
