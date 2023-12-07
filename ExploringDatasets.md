@@ -1,4 +1,4 @@
-# CFDE Cloud Workspace Partnership (CWP) Pilot [NOTE: DRAFT PAGE CONTENT]
+# CFDE Cloud Workspace Partnership (CWP) Pilot
 ## Exploring and Accessing Datasets
 
 ---
