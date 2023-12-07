@@ -1,4 +1,4 @@
-# CFDE Cloud Workspace Partnership (CWP) Pilot [NOTE: DRAFT PAGE CONTENT]
+# CFDE Cloud Workspace Partnership (CWP) Pilot
 ## Closing Out Your Collaborative Project
 
 ### Wrapping Things Up
