@@ -17,6 +17,9 @@
 | Using CAVATICA - Seven Bridges Tutorials | <ul><li>[CAVATICA Introduction and Quickstart](https://docs.cavatica.org/docs/quickstart)</li><li>[Bring Your Own Tools to CAVATICA](https://docs.cavatica.org/docs/bring-your-own-tools-to-cavatica-1)</li><li>[Maintaining and Versioning CWL on External Tool Repositories](https://docs.cavatica.org/docs/maintaining-and-versioning-cwl-on-external-tool-repositories)</li><li>[CAVATICA API Overview](https://docs.cavatica.org/docs/the-api)</li></ul> |
 | [Closing Out Your Collaborative Project](closeout.md) | <ul><li>Wrapping Things Up</li><li>Reproducibility in the Cloud</li></ul> |
 
+___About the Common Fund Data Ecosystem (CFDE):___ The NIH Common Fund Data Ecosystem (CFDE) aims to enable broad use of Common Fund data to accelerate discovery. Common Fund programs generate a wide range of diverse and valuable data sets and knowledge designed to be used by the research community.  For more information about the CFDE, visit https://commonfund.nih.gov/dataecosystem. 
+
+
 ___About the Gabriella Miller Kids First Data Resource Center (Kids First DRC):___ 
 The Kids First DRC is a collaborative, pediatric research effort with the goal of understanding the genetic causes and links between childhood cancer and structural birth defects. As part of the NIH Common Fund’s Gabriella Miller Kids First Pediatric Research Program, the Kids First DRC is charged with:
 - Developing data-driven platforms that integrate large amounts of genomic and clinical data from different disease types.
@@ -25,9 +28,6 @@ The Kids First DRC is a collaborative, pediatric research effort with the goal o
 - Accelerating discovery of genetic causes and shared biologic pathways within and across these conditions.
 
 For more information, visit https://www.kidsfirstdrc.org.
-
-___About the Common Fund Data Ecosystem (CFDE):___ The NIH Common Fund Data Ecosystem (CFDE) aims to enable broad use of Common Fund data to accelerate discovery. Common Fund programs generate a wide range of diverse and valuable data sets and knowledge designed to be used by the research community.  For more information about the CFDE, visit https://commonfund.nih.gov/dataecosystem. 
-
 
 
 ___About the National Institutes of Health (NIH):___ NIH, the nation's medical research agency, includes 27 Institutes and Centers and is a component of the U.S. Department of Health and Human Services. NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about NIH and its programs, visit https://www.nih.gov.
