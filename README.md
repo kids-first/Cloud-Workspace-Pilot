@@ -17,6 +17,8 @@
 | Using CAVATICA - Seven Bridges Tutorials | <ul><li>[CAVATICA Introduction and Quickstart](https://docs.cavatica.org/docs/quickstart)</li><li>[Bring Your Own Tools to CAVATICA](https://docs.cavatica.org/docs/bring-your-own-tools-to-cavatica-1)</li><li>[Maintaining and Versioning CWL on External Tool Repositories](https://docs.cavatica.org/docs/maintaining-and-versioning-cwl-on-external-tool-repositories)</li><li>[CAVATICA API Overview](https://docs.cavatica.org/docs/the-api)</li></ul> |
 | [Closing Out Your Collaborative Project](closeout.md) | <ul><li>Wrapping Things Up</li><li>Reproducibility in the Cloud</li></ul> |
 
+For more information or feedback about the “Cloud Workspace Partnership Pilot” program, on CFDE Slack reach out in the #cloud-workspace-pilot channel or send an email to Surya Saha (surya.saha@velsera.com) and Eric Wenger (wengere@chop.edu).
+
 ___About the Common Fund Data Ecosystem (CFDE):___ The NIH Common Fund Data Ecosystem (CFDE) aims to enable broad use of Common Fund data to accelerate discovery. Common Fund programs generate a wide range of diverse and valuable data sets and knowledge designed to be used by the research community.  For more information about the CFDE, visit https://commonfund.nih.gov/dataecosystem. 
 
 
