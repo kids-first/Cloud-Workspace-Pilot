@@ -2,9 +2,9 @@
 ## Applying for Collaborative Project Funding
 ###
 
-We are happy to announce the launch of the CFDE “Cloud Workspace Partnership Pilot” for the extended CFDE user community to collaboratively pilot integration of data and tool usage in the CAVATICA cloud workspace.
+We are happy to announce the launch of the CFDE “Cloud Workspace Partnership Pilot” for the extended CFDE user community to collaboratively pilot integration of data and tool usage in the CAVATICA cloud workspace. Preference will be given to applications with cross-analysis of data sets from multiple CFDE DCCs. The initial award will cover $1000 of cloud costs with additional support subject to further review.
 
-During these piloting activities, you will receive dedicated support to bring your data and analysis to the CAVATICA cloud workspace using a range of methods including GA4GH DRS, in addition to training resources and documentation. Once you create your login, you may want to explore public projects to review fully documented examples of analyses on CAVATICA.
+During these piloting activities, you will receive dedicated support to bring your data and analysis to the CAVATICA cloud workspace using a range of methods including GA4GH DRS, in addition to training resources and documentation. Once you create your login, you may want to explore [public projects](https://docs.cavatica.org/docs/bulk-rna-seq-transcription-profiling-of-hsv-1-infected-cells) to review fully documented examples of analyses on CAVATICA.
 
 We recognize the value and importance of the community’s rich variety of research use cases and accompanying data analysis needs.  In order to empower use case piloting in CAVATICA, members from the diverse user community can apply for funding for collaborative pilot projects to offset cloud compute and storage costs. The collaborative projects will also receive support and guidance from the Kids First and CAVATICA Outreach and bioinformatics teams to help meet their goals successfully.
 
@@ -22,6 +22,6 @@ Information you will be asked to provide when you submit your application includ
 - ___Technical Plan___ (describe your proposed technical plan, limiting to 100-200 words)
 - ___Budget Amount and Justification___ (describe the planned budget and its justification)
 
-2. Submit an online application at XXXXX.
+2. Submit an [online application](https://forms.gle/L4mJsUesTRaH1SdQ7).
 
 For more information or feedback about the “Cloud Workspace Partnership Pilot” program, please contact XXXXX.
