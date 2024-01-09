@@ -6,6 +6,13 @@
 
 There are a variety of data access tiers across different DCCs. These tiers span a range of open access to controlled access, with file management and access mechanisms ranging from DRS, https pointers to data files, to download / copy of actual files (e.g. FTP). We are matching up these existing tiers with different ways that CAVATICA can support a DCC to provision their data into a cloud workspace where a researcher can then begin their analysis.
 
+![image](https://github.com/kids-first/cloud-workspace-partnership-pilot/assets/1084749/27b1f578-8722-48f7-95f5-de743e21aa71)
+
+One of the commonly used methods for cloud data access is the Data Repository Service (DRS) API
+- DRS is a set of standardized API calls so data consumers can “an access data in a single, standard way regardless of where it’s stored and how it’s managed”.  
+- DRS can be utilized for both controlled access an open access data, but has become a core standard as part of NCPI for controlled access. 
+
+
 ---
 ### Controlled Access Data for Secondary Use
 Users interested in data from DCCs who submit their data to dbGaP for controlled access can use the dbGaP DRS/RAS integration with CAVATICA
