@@ -3,11 +3,12 @@
 
 ---
 ### Overview of Accessing Data in CAVATICA
-add content here
+
+There are a variety of data access tiers across different DCCs. These tiers span a range of open access to controlled access, with file management and access mechanisms ranging from DRS, https pointers to data files, to download / copy of actual files (e.g. FTP). We are matching up these existing tiers with different ways that CAVATICA can support a DCC to provision their data into a cloud workspace where a researcher can then begin their analysis.
 
 ---
 ### Controlled Access Data for Secondary Use
-add content here
+Users interested in data from DCCs who submit their data to dbGaP for controlled access can use the dbGaP DRS/RAS integration with CAVATICA
 
 [dbGaP - Tips for Preparing a Successful Data Access Request](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=GeneralAAInstructions.pdf)
 
@@ -15,16 +16,18 @@ add content here
 
 ---
 ### Consortium Controlled Access Data
-add content here
+Leveraging shared private workspaces for DCC hosted data will be the preferred option for prototyping successful analysis during the pilot. Hosting own DRS server will need integration with CAVATICA for authentication/authorization.
 
 ---
 ### Open Access Data
-add content here
+There are a number of options for users to access open data from DCCs
+- Open DRS server managed by DCC
+- Use CAVATICA DRS services once DCC has indexed their data on CAVATICA DRS server
+- Access non-DRS sources such as open access cloud storage (including AWS Open Data)
 
 ---
 ### Bring Your Own Data
 
-Suggest Edits
 You can upload your private data to CAVATICA using any of the following file transfer methods to suit your various requirements and achieve the best upload speed and reliability for the volume and structure of data that you are uploading.
 
 #### Upload from your local storage 
