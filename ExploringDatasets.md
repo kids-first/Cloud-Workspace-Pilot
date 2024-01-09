@@ -8,7 +8,7 @@ There are a variety of data access tiers across different DCCs. These tiers span
 
 ![image](https://github.com/kids-first/cloud-workspace-partnership-pilot/assets/1084749/27b1f578-8722-48f7-95f5-de743e21aa71)
 
-One of the commonly used methods for cloud data access is the Data Repository Service (DRS) API
+One of the commonly used methods for cloud data access is the GA4GH Data Repository Service (DRS) API
 - DRS is a set of standardized API calls so data consumers can “an access data in a single, standard way regardless of where it’s stored and how it’s managed”.  
 - DRS can be utilized for both controlled access an open access data, but has become a core standard as part of NCPI for controlled access. 
 
