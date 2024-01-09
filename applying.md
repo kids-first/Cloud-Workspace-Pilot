@@ -24,4 +24,4 @@ Information you will be asked to provide when you submit your application includ
 
 2. Submit an [online application](https://forms.gle/L4mJsUesTRaH1SdQ7).
 
-For more information or feedback about the “Cloud Workspace Partnership Pilot” program, please contact XXXXX.
+For more information or feedback about the “Cloud Workspace Partnership Pilot” program, on [CFDE Slack](cfdeworkspace.slack.com) reach out in the #cloud-workspace-pilot channel or send an email to Surya Saha (surya.saha@velsera.com) and Eric Wenger (wengere@chop.edu).
