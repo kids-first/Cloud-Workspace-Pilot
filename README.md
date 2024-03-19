@@ -10,6 +10,7 @@
 | Topic and Link    | Description |
 | :------------- | :--------------------------------------------------------------------------- |
 | [Introduction to the Cloud Workspace Partnership (CWP) Pilot](introduction.md) | <ul><li>Overview of the CWP Pilot</li><li>Why Choose Cloud-Based Analysis?</li></ul>
+| [Cloud Workspace Partnership (CWP) breakout session at All-hands March 20, 2024](https://kids-first.github.io/cloud-workspace-partnership-pilot/) | <ul><li>Overview of the workshop</li><li>Links to training materials</li></ul>
 | [Exploring and Accessing Datasets](ExploringDatasets.md) | <ul><li>Overview of Accessing Data in CAVATICA</li><li>Controlled Access Data for Secondary Use</li><li>Consortium Controlled Access Data</li><li>Open Access Data</li><li>Bring Your Own Data</li></ul> |
 | [Estimating Cloud Computing Costs](estimatingcosts.md) | <ul><li>Principles of Cloud Computing Costs</li><li>Storage and Compute</li><li>Choosing Workflows</li><li>Estimating Analyses<ul><li>Using Existing CAVATICA Workflows</li><li>Bringing Your Own Workflows</li><li>[Cloud Cost Estimator](https://docs.google.com/spreadsheets/d/1_z6JxJxxbZj0qQ2-i6In2XntLkNDLiNB/edit?usp=sharing&ouid=114381528003679826426&rtpof=true&sd=true)</li></ul></li></ul> |
 | [Applying for Collaborative Project Funding](applying.md) | <ul><li>Call for Applications</li></ul> |
